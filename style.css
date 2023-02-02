@@ -1,0 +1,6 @@
+.contenedor{
+  background-color: violet;
+  height: 50px;
+  margin: 5%;
+  display: flex;
+}
